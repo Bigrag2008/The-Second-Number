@@ -73,7 +73,7 @@ doc.add_heading("THE SECOND NUMBER, BOOK ONE", 1)
 note("Page 1 of 2. It goes after “A note on the numbers” and the reading list, on its own page. "
      "Gloria names Civic Armor in the last chapter; this page tells the reader it's real.")
 doc.add_heading("Civic Armor is real", 2)
-para("Gloria named it on a porch on Delmar: armor, ’cause it covers you. Civic, ’cause it ain’t yours.")
+para("Gloria named it on a porch on Elmhurst: armor, ’cause it covers you. Civic, ’cause it ain’t yours.")
 para("What Marcus could see, you can learn. Not with a Sight. With a method, and with the people on your block.")
 door("The Third Option.", "The Civic Armor guide for your own job: how to recognize, document and prove what’s happening at work, "
      "before you ever see a lawyer.", "getcivicarmor.com/guide", "qr_third_option.png")
